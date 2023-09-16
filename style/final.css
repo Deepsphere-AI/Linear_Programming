@@ -75,3 +75,54 @@ button.css-1n543e5.edgvbvh10 {
     overflow: hidden;
     margin-top: -65px;
 }
+
+.css-627rjx {
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    font-weight: 400;
+    padding: 0.25rem 0.75rem;
+    border-radius: 0.25rem;
+    margin: 0px;
+    line-height: 1.6;
+    color: inherit;
+    width: auto;
+    user-select: none;
+    background-color: rgb(50 205 50);
+    border: 1px solid rgba(49, 51, 63, 0.2);
+}
+
+.css-1v0mbdj {
+    display: flex;
+    flex-direction: column;
+    -webkit-box-align: stretch;
+    align-items: stretch;
+    width: 390px;
+    -webkit-box-flex: 0;
+    flex-grow: 0;
+}
+
+.css-1kyxreq.etr89bj2 {
+    width: 120px;
+}
+
+.css-12iyhzx {
+    display: inline-flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    font-weight: 400;
+    padding: 0.25rem 0.75rem;
+    border-radius: 0.25rem;
+    margin: 0px;
+    line-height: 1.6;
+    color: inherit;
+    width: auto;
+    user-select: none;
+    background-color: #32CD32;
+    border: 1px solid rgba(49, 51, 63, 0.2);
+}
+
