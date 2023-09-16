@@ -14,7 +14,7 @@ def LPP_ml():
     col11,col22,col33=st.columns((2,8,0.2))
     with col1:
         st.write("## ")
-        st.markdown("<p style='text-align: left; color: black; font-size:20px;'><span style='font-weight: bold'>Select Vendor</span></p>", unsafe_allow_html=True)
+        st.markdown("<p style='text-align: left; color: black; font-size:20px;'><span style='font-weight: bold'>Select Method</span></p>", unsafe_allow_html=True)
     with col2:
         vAR_app = ['Linear Programmimg','Machine Learning']
         vAR_input_methode = st.radio(' ',vAR_app,horizontal=True)
