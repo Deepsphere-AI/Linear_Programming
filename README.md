@@ -1,3 +1,3 @@
 # Linear_Programming
 
-# https://linearprogramming-oil-and-gas.streamlit.app/
+# https://linearprogramming-demo.streamlit.app/
